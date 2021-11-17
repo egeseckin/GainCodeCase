@@ -7,3 +7,6 @@ Gain Code Case
 
 
 ![Movie Screen](MovieScreen.png)
+
+
+![Show Screen](ShowScreen.png)
